@@ -1,29 +1,35 @@
-# If you want to use this theme
+# NexT
 
-Please read [this link](https://yk-liu.github.io/jekyll/Jekyll-Build.html#what-should-i-modify). 
+> 精于心，简于形
 
-I **strongly** recommand that you use the other [repo](https://github.com/yk-liu/PointingToTheMoon) I specially prepared for you! It has all the features that this webiste has and has no personal information of me. You can fork that repo or leave a star if you like. 
+NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
 
-However, you can still use this repo for some fine-tuning or hackering. But please at least use the "theme-for-fork" branch rather than the master branch.
+<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
 
-If you still want to use the master branch for some reason, please remove files/ descriptions about `yk-liu` so I don't have to pester you to clean up. Also I would appreciate if you don't fork this repo, but clone it and upload to your own, so there is no network between you and me. And if you really like this repo, maybe consider giving it a star.
+[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# About this website
+![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
 
-This website (source code [here](https://github.com/yk-liu/yk-liu.github.io)) uses these sources:
 
-| Module                                                       | Mainly used in                                  | License/ TOS                                                 |
-| ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
-| [Particle.js](https://github.com/VincentGarreau/particles.js) | Homepage                                        | [MIT](http://opensource.org/licenses/MIT)                    |
-| [Visitor map](https://clustrmaps.com/)                       | Homepage, footer                                | [TOS](https://clustrmaps.com/legal)                          |
-| [Homepage and color scheme](https://github.com/nrandecker/particle) | Layout @ homepage, color scheme @ all pages     | [MIT](http://opensource.org/licenses/MIT)                    |
-| [List of recent post](https://github.com/mdo/jekyll-snippets/blob/master/posts-list.html) | Homepage, Post index                            | [MIT](http://opensource.org/licenses/MIT)                    |
-| [Search](https://github.com/christian-fei/Simple-Jekyll-Search) | Post index, Tags index                          | [MIT](http://opensource.org/licenses/MIT)                    |
-| [Side bar](https://github.com/poole/lanyon)                  | Post, all pages with these elements             | [MIT](https://github.com/poole/lanyon/blob/master/LICENSE.md) |
-| [Table of content](https://github.com/allejo/jekyll-toc)     | Post                                            | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) or [MIT](http://opensource.org/licenses/MIT) |
-| [Markdown vue theme and color scheme](https://github.com/blinkfox/typora-vue-theme) | Markdown theme @ Post, color scheme @ all pages | [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)     |
-| [Tags, Tag cloud, Tag page](https://hyunyoung2.github.io/2016/12/17/Tag_Cloud/) | Post, Post index, Tags index                    | [MIT](http://opensource.org/licenses/MIT), repo [here](https://github.com/hyunyoung2/hyunyoung2.github.io). Tag page inspired by [haixing-hu](https://haixing-hu.github.io/tags.html) |
-| [Font size adjustment](https://codepen.io/robgolbeck/pen/yePRwa) | Post                                            | [MIT](http://opensource.org/licenses/MIT)                    |
-| [comment](https://commentit.io)                              | Post                                            | [APGL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)       |
-| [404 T-rex game](https://github.com/wayou/t-rex-runner)      | 404 page                                        | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
-| [Encryption](https://github.com/robinmoisson/staticrypt)     | Secret Pages                                    | [MIT](http://opensource.org/licenses/MIT)                    |
+## 浏览器支持 Browser support
+
+![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+
+
+## 贡献 Contributing
+
+欢迎提交问题与需求，修复代码。
+
+
+## 开发 Development
+
+NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
+
+NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+
+
+## 捐赠
+
+支付宝捐赠链接还是要有的，万一真的有人捐呢。
+
+![支付宝扫码捐赠](http://7lryc0.com1.z0.glb.clouddn.com/a6x049034plyvjm1rvn4h28%20%281%29.png)
